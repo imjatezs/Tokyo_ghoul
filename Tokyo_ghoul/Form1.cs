@@ -21,5 +21,10 @@ namespace Tokyo_ghoul
         {
             textBox1.Text = "Dead inside";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "Not dead inside anymore";
+        }
     }
 }
